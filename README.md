@@ -8,3 +8,7 @@ The aim of the game is to save Maryo from the fire balls emitted by dragon by mo
 There are 4 levels in the game. The level increases after every 250 points. This project also incorporates the function of gravity
 
 ### Screenshots
+![Alt text](https://github.com/saurabhprakash-25/Maryo/blob/master/Screenshots/Start%20Screen.png)
+![Alt text](https://github.com/saurabhprakash-25/Maryo/blob/master/Screenshots/Level%201.png)
+![Alt text](https://github.com/saurabhprakash-25/Maryo/blob/master/Screenshots/Level%203.png)
+
