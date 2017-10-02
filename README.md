@@ -16,6 +16,22 @@ Your aim is to save Maryo from the fireballs emitted by the Dragon.
 * Use the down arrow key to move downward.
 * While no key is pressed, Maryo starts coming down due to Gravity.
 
+### How to Use
+* To clone the repository :
+```
+git clone https://github.com/saurabhprakash-25/Maryo.git
+```
+
+* Install the dependencies :
+```
+sudo pip install -r requirements.txt
+```
+* Compile and run the program :
+```
+python Maryo.py
+```
+
+
 ### Screenshots
 ![Alt text](https://github.com/saurabhprakash-25/Maryo/blob/master/Screenshots/Start%20Screen.png)
 ![Alt text](https://github.com/saurabhprakash-25/Maryo/blob/master/Screenshots/Level%201.png)
