@@ -1,5 +1,5 @@
 # Maryo
-Developed as a part of Online Training on Python by Internshala
+Developed as a part of Online Training on Python by Internshala.
 
 ### Abstract
 A Mario like game developed using the Pygame module in Python as a part of the Internshala Online Certification Program on Python.
