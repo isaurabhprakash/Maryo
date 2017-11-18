@@ -20,7 +20,7 @@ There are 4 levels in the game. The level increases after every 250 points. This
 Your aim is to save Maryo from the fireballs emitted by the Dragon.
 * Use the up arrow key to move upward.
 * Use the down arrow key to move downward.
-* When no key is pressed, Maryo starts coming down due to Gravity.
+* When no key is pressed, Maryo starts moving down due to Gravity.
 
 ### How to Use
 * To clone the repository :
