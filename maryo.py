@@ -294,15 +294,3 @@ while True:
     Canvas.blit(endimage, endimagerect)
     pygame.display.update()
     waitforkey()
-        
-    
-
-
-        
-               
-                                                     
-                    
-            
-        
-
-    
